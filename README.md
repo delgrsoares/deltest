@@ -17,5 +17,5 @@ Criação de um sistema de visualização de imagens.
 Usar Vue ou React no front-end.
 
 ### Bônus
-Criar dockerfile para os projetos.
-Criar um backend para a funcionalidade de favoritar imagens.
+- Criar dockerfile para os projetos.
+- Criar um backend para a funcionalidade de favoritar imagens.
