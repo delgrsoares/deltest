@@ -6,7 +6,7 @@ Criação de um sistema de visualização de imagens.
 ### Requisitos
 - Deve ser possível buscar imagens digitando em um input.
 - O sistema deve ser responsivo.
-- Deve ser rendenrizado até 20 imagens por consulta.
+- Deve ser renderizado até 20 imagens por consulta.
 - Deve ser possível favoritar uma imagem.
 - Deve ser possível visualizar imagens favoritadas.
 - Deve ser possível remover uma imagem de favoritas.
